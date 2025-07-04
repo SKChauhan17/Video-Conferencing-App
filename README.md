@@ -2,8 +2,7 @@
 
   Video Connect is a full-stack video conferencing web application built using the **MERN** stack. It features real-time communication powered by **Socket.IO**, user authentication using **JWT**, and persistent user/room data stored in **MongoDB**.
 
-## 🌐 Live Demo
-  Coming soon...
+## 🌐 Demo Video(https://drive.google.com/file/d/1BWge3kqAtPKBwKJxL7IZMts5sslrEw8h/view?usp=sharing)
 
 ## 🚀 Features
 
